@@ -1,1 +1,3 @@
 # Draw-IO
+
+[[draw.webp]]
