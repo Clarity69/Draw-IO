@@ -1,3 +1,3 @@
 # Draw-IO
 
-[[draw.webp]]
+![Alt text](draw.webp)
